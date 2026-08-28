@@ -27,5 +27,5 @@ Nagy Dávid Viktor: A 12 diás, egyedi Diamintát használó prezentáció elké
 4. Eredmények összefoglalása
 * Responsive projektweboldal (4 önálló oldal, Bootstrap 5 keretrendszerrel, átlátható navigációval).
 * 6 oldalas digitális kiadvány (PDF) illusztrációkkal, gyakorlati csekklistával.
-* 10 diás bemutató prezentáció egyedi mesterdiával, animációkkal és áttűnésekkel.
+* 12 diás bemutató prezentáció egyedi mesterdiával, animációkkal és áttűnésekkel.
 * Strukturált GitHub adattár rendszeres commit-történettel és teljes dokumentációval.
