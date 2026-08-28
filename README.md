@@ -29,3 +29,4 @@ Nagy Dávid Viktor: A 12 diás, egyedi Diamintát használó prezentáció elké
 * 6 oldalas digitális kiadvány (PDF) illusztrációkkal, gyakorlati csekklistával.
 * 12 diás bemutató prezentáció egyedi mesterdiával, animációkkal és áttűnésekkel.
 * Strukturált GitHub adattár rendszeres commit-történettel és teljes dokumentációval.
+* 11 perces ismertető videó a teljes projektől.
